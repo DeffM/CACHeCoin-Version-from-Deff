@@ -106,7 +106,7 @@ extern std::map<uint256, CBlock*> mapOrphanBlocks;
 extern int64 nTransactionFee;
 
 // Settings PowForceGlobal
-static const int64 nPowForceTimestamp = 9524268800;
+static const int64 nPowForceTimestamp = 1524836289;
 
 // Minimum disk space required - used in CheckDiskSpace()
 static const uint64 nMinDiskSpace = 52428800;
